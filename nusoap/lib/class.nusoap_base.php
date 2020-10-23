@@ -28,9 +28,8 @@ The primary support for NuSOAP is the Help forum on the project home page.
 
 If you have any questions or comments, please email:
 
-Dietrich Ayala
-dietrich@ganx4.com
-http://dietrich.ganx4.com/nusoap
+Luis Ponce
+ponce.luis7470@gmail.com
 
 NuSphere Corporation
 http://www.nusphere.com
@@ -77,8 +76,7 @@ $GLOBALS['_transient']['static']['nusoap_base']['globalDebugLevel'] = 9;
 *
 * nusoap_base
 *
-* @author   Dietrich Ayala <dietrich@ganx4.com>
-* @author   Scott Nichol <snichol@users.sourceforge.net>
+* @author   Luis Ponce <ponce.luis7470@gmail.com>
 * @version  $Id: class.nusoap_base.php,v 1.56 2010/04/26 20:15:08 snichol Exp $
 * @access   public
 */
